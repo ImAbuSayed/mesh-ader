@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Mesh Ader |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/mesh-ader/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي من وراء الويل
+> أنت الأمان في دنيا الغرام
+> روحي فداك يا أحلى أحلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
