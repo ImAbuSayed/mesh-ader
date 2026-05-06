@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-ader/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Mesh Ader](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
